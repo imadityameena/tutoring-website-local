@@ -12,6 +12,7 @@ import { PortfolioPage } from './components/PortfolioPage';
 import { AdminPanel } from './components/AdminPanel';
 import { UserDashboard } from './components/UserDashboard';
 import { Toaster } from './components/ui/sonner';
+import React from 'react';
 
 interface User {
   email: string;
